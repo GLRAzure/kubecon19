@@ -1,0 +1,5 @@
+cluster/controllers/kong-install.yaml
+cluster/canary/frontend.copy.yaml
+cluster/observability-old/*
+cluster/hpa/frontend.copy.yaml
+cluster/releases-istio/*
